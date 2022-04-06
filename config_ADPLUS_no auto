@@ -25,6 +25,7 @@ ruleset=📢 谷歌,https://raw.githubusercontent.com/sildem/ACL4SSR/master/Clas
 ruleset=📹 油管视频,https://raw.githubusercontent.com/sildem/ACL4SSR/master/Clash/Ruleset/YouTube.list
 ruleset=📢 Github,https://raw.githubusercontent.com/sildem/ACL4SSR/master/Clash/Ruleset/Github.list
 ruleset=📢 Linkedin,https://raw.githubusercontent.com/sildem/ACL4SSR/master/Clash/Ruleset/Linkedin.list
+ruleset=📢 Zoom,https://raw.githubusercontent.com/sildem/ACL4SSR/master/Clash/Ruleset/Zoom.list
 ruleset=Ⓜ️ OneDrive,https://raw.githubusercontent.com/sildem/ACL4SSR/master/Clash/Ruleset/OneDrive.list
 ruleset=Ⓜ️ 微软服务,https://raw.githubusercontent.com/sildem/ACL4SSR/master/Clash/Ruleset/Microsoft.list
 ruleset=🍎 苹果服务,https://raw.githubusercontent.com/sildem/ACL4SSR/master/Clash/Ruleset/Apple.list
