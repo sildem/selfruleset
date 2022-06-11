@@ -39,6 +39,7 @@ ruleset=🎮 XBOX游戏,https://raw.githubusercontent.com/sildem/ACL4SSR/master/
 ruleset=🎮 EPIC游戏,https://raw.githubusercontent.com/sildem/ACL4SSR/master/Clash/Ruleset/Epic.list
 ruleset=🎮 SONY游戏,https://raw.githubusercontent.com/sildem/ACL4SSR/master/Clash/Ruleset/Sony.list
 ruleset=🎮 Steam游戏,https://raw.githubusercontent.com/sildem/ACL4SSR/master/Clash/Ruleset/Steam.list
+ruleset=🎮 Blizzard,https://raw.githubusercontent.com/sildem/ACL4SSR/master/Clash/Ruleset/Blizzard.list
 ruleset=🎥 Disney+,https://raw.githubusercontent.com/sildem/ACL4SSR/master/Clash/Ruleset/DisneyPlus.list
 ruleset=🎥 Hulu,https://raw.githubusercontent.com/sildem/ACL4SSR/master/Clash/Ruleset/Hulu.list
 ruleset=🎥 Hulu-Japan,https://raw.githubusercontent.com/sildem/ACL4SSR/master/Clash/Ruleset/HuluJapan.list
@@ -121,6 +122,7 @@ custom_proxy_group=🎮 XBOX游戏`select`[]♻️ 自动选择`[]🇸🇬 狮�
 custom_proxy_group=🎮 EPIC游戏`select`[]♻️ 自动选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🚀 手动切换1`[]🚀 手动切换2`[]🚀 手动切换3`[]DIRECT
 custom_proxy_group=🎮 SONY游戏`select`[]♻️ 自动选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🚀 手动切换1`[]🚀 手动切换2`[]🚀 手动切换3`[]DIRECT
 custom_proxy_group=🎮 Steam游戏`select`[]♻️ 自动选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🚀 手动切换1`[]🚀 手动切换2`[]🚀 手动切换3`[]DIRECT
+custom_proxy_group=🎮 Blizzard`select`[]♻️ 自动选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🚀 手动切换1`[]🚀 手动切换2`[]🚀 手动切换3`[]DIRECT
 ;设置分组标志位
 
 enable_rule_generator=true
